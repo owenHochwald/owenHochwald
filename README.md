@@ -25,4 +25,4 @@
 <div align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenHochwald&size_weight=0.5&count_weight=0.5&hide=css,cython&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
+(https://github-readme-stats.vercel.app/api/top-langs/?username=owenHochwald&size_weight=0.5&count_weight=0.5&hide=css,cython&langs_count=8&theme=tokyonight)
