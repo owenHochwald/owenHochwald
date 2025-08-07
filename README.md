@@ -19,4 +19,7 @@
 <p align="left">I'm Owen Hochwald! I live in Washington, DC and the San Francisco Bay Area.<br><br>I'm a passionate software / machine learning engineer exploring the integration of SOTA models with the newest web frameworks. I have an interest in web development and cloud technologies. I'm also proficient in various data visualization tools to effectively communicate these insights. I have experience in web development and cloud deployment, so many of the projects found on my profile will be smaller, fullstack projects <br><br>- I'm going into my 2nd year at UBC for a BSc in Computer Science and looking for Co-op experience coming up in January <br>- In my free time I love to play the clarinet and piano, and go for walks!</p>
 
 ---
-Contact me by reaching out to me on LinkedIn or at my email: owenhochwald@gmail.com
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenHochwald&theme=default&show_icons=true&hide_border=true&layout=compact&hide=C++,%20CSS,Cython,%20C,%20jupyter%20notebook&size_weight=.2&count_weight=0&theme=radical)
+
+- Contact me by reaching out to me on LinkedIn or at my email: owenhochwald@gmail.com
