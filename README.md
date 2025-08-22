@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm Owen Hochwald! I live in Washington, DC and the San Francisco Bay Area.<br><br>I'm a passionate software / machine learning engineer exploring the integration of SOTA models with the newest web frameworks. I have an interest in web development and cloud technologies. I'm also proficient in various data visualization tools to effectively communicate these insights. I have experience in web development and cloud deployment, so many of the projects found on my profile will be smaller, fullstack projects <br><br>- I'm going into my 2nd year at UBC for a BSc in Computer Science and looking for Co-op experience coming up in January <br>- In my free time I love to play the clarinet and piano, and go for walks!</p>
+<p align="left">I'm Owen Hochwald! I'm a CS Co-op student at the University of British Columbia.<br><br>I'm passionate about software & machine learning. Things like exploring the integration of models with the newest web frameworks. I have an interest in web development and cloud technologies. I'm also proficient in various data visualization tools for communication too. Many of the projects found on my profile will be smaller, fullstack projects, and more recently, Go apps as I learn about cloud native apps and DevOps. <br><br>- I'm looking for Co-op experience coming up in January <br>- In my free time I love to play the clarinet and piano, and travel!</p>
 
 ---
 
