@@ -25,12 +25,15 @@
 ## Skills
 ---
 **Backend & Systems Engineering**
+
 [![My Skills](https://skillicons.dev/icons?i=go,java,python,cpp,nodejs,postgres,sqlite,redis)](https://skillicons.dev)
 
 **Cloud, DevOps & Observability**
+
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,prometheus,githubactions,linux,gcp)](https://skillicons.dev)
 
 **Frontend & Design**
+
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,bun)](https://skillicons.dev)
 
 ---
@@ -54,7 +57,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 <a href="https://www.owenhochwald.me/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Personal Website&logo=linkedin&label=&color=gray&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Personal_Website&logo=linkedin&label=&color=gray&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:owenhochwald@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=linkedin&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
