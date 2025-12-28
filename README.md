@@ -43,15 +43,6 @@
 <img src="https://leetcard.jacoblin.cool/owenhochwald" width="500" />
 </p>
 
-
----
-
-###  What I'm Building
-**[Volt](https://github.com/owenhochwald)**: A high-performance cURL/Postman replacement written in **Go**.
-- ⚡ **1M requests** in under 5 seconds via request pooling.
-- 📊 Real-time **p95 latency tracking** using t-digest streaming algorithms.
-
-
 <div align="center">
   <a href="https://www.linkedin.com/in/owen0hochwald/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
