@@ -39,7 +39,6 @@
 ---
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=owenhochwald&theme=ayu_mirage" width="400" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=owenhochwald&theme=ayu_mirage" width="400" />
 <img src="https://leetcard.jacoblin.cool/owenhochwald" width="500" />
 </p>
 
