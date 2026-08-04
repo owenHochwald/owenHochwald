@@ -13,28 +13,7 @@
 
 <h1 align="centerHello!</h1>
 
-###
 
-<h3 align="left">About Me</h3>
-
-###
-
-<p align="left">I'm a CS student at the University of British Columbia.<br><br>I'm passionate about software & machine learning. Things like exploring the integration of models with the newest web frameworks. I have an interest in web development and cloud technologies. I'm also proficient in various data visualization tools for communication too. Many of the projects found on my profile will be smaller, fullstack projects, and more recently, Go apps as I learn about cloud native apps and DevOps. <br> <br>- In my free time I love to play the clarinet and piano, and travel!</p>
-
-
-## Skills
----
-**Backend & Systems Engineering**
-
-[![My Skills](https://skillicons.dev/icons?i=go,java,python,cpp,nodejs,postgres,sqlite,redis)](https://skillicons.dev)
-
-**Cloud, DevOps & Observability**
-
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,prometheus,githubactions,linux,gcp)](https://skillicons.dev)
-
-**Frontend & Design**
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,bun)](https://skillicons.dev)
 
 ---
 <p align="center">
