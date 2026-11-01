@@ -11,7 +11,7 @@
 </p>
 
 
-<h1 align="centerHello!</h1>
+<h1 align="center">Hello!</h1>
 ---
 
 <img src="koi/koi.gif" width="256" alt="My koi">
