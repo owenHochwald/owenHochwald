@@ -7,13 +7,14 @@
 
 <h1 align="center">Hello! I'm Owen Hochwald</h1>
 <p align="center">
-  <strong>Software Engineer | High-Performance Systems | Cloud Infrastructure</strong>
+  <strong>Software Engineer</strong>
 </p>
 
 
 <h1 align="centerHello!</h1>
+---
 
-
+<img src="koi/koi.gif" width="256" alt="My koi">
 
 ---
 <p align="center">
