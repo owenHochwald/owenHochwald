@@ -12,14 +12,17 @@
 
 
 <h1 align="center">Hello!</h1>
----
 
-<img src="koi/koi.gif" width="256" alt="My koi">
-
----
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/owenhochwald" width="500" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="koi/koi.gif" width="256" alt="My koi">
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://leetcard.jacoblin.cool/owenhochwald" width="100%" alt="Owen Hochwald's LeetCode stats">
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/owen0hochwald/" target="_blank">
